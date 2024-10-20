@@ -15,7 +15,13 @@ A decentralized online voting application that allows users to cast their votes 
 - **Wallet**: MetaMask
 
 ## Screenshots
+Register Page
+![image](https://github.com/user-attachments/assets/d776089d-bb5b-4faf-a99e-297619f1835b)
+
+Voting Page
 ![image](https://github.com/user-attachments/assets/50d1b6ca-c40a-46ee-ab16-c3855c21df50)
+
+Results Page
 ![image](https://github.com/user-attachments/assets/67baec10-2659-4898-aea4-de886ab19a74)
 
 ## Installation
