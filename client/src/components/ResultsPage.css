@@ -1,0 +1,71 @@
+.results-page {
+    background-color: #f0f4f8;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.results-container {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 80%;
+    max-width: 800px;
+}
+
+.results-title {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #333333;
+}
+
+.winner-announcement {
+    font-size: 24px;
+    margin-bottom: 30px;
+    color: #2e7d32; /* Green for the winner */
+}
+
+.results-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+.results-table th, .results-table td {
+    padding: 12px 20px;
+    border: 1px solid #ddd;
+    text-align: left;
+    font-size: 18px;
+}
+
+.results-table th {
+    background-color: #f2f2f2;
+    color: #333333;
+}
+
+.results-table td {
+    color: #555555;
+}
+
+.winner-row {
+    background-color: #e0f7fa;
+    font-weight: bold;
+}
+
+.vote-again-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.vote-again-button:hover {
+    background-color: #0056b3;
+}
