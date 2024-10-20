@@ -11,7 +11,7 @@ A decentralized online voting application that allows users to cast their votes 
 - **Blockchain**: Ethereum
 - **Smart Contract Framework**: Truffle
 - **Development Environment**: Ganache
-- **Frontend Framework**: React
+- **Frontend Framework**: React, Web3
 - **Wallet**: MetaMask
 
 ## Screenshots
