@@ -30,7 +30,7 @@ Results Page
    git clone https://github.com/Yashkrit-Singh/Voting_DApp.git
 2. Navigate to the project directory:
    ```bash
-   cd Voting_DApp
+   cd client
 3. Install dependencies:
    ```bash
    npm install
